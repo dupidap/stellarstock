@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+"GCXLVL63R4IWLF2XECNWG4F7ZEYOJ7PJPNFCP3L2WMDRFA3PPMYR4BG3"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
+ORG_DESCRIPTION="The Stellar stock is a distributed blockchain based ledger and database that facilitates cross-asset transfers of value, including payments. The native digital asset of Stellar is called Lumens (XLM). However, Stellar can also support other tokenized assets on its blockchain"
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/X3zWgxL/tronchain.png"
+ORG_LOGO="https://i.ibb.co/nM7ZXyW/stellar-stock.png"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="TronChain"
-issuer="GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+code="Lumens"
+issuer="GCXLVL63R4IWLF2XECNWG4F7ZEYOJ7PJPNFCP3L2WMDRFA3PPMYR4BG3"
 anchor_asset="false"
-name="TronChain"
-desc="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
-image="https://i.ibb.co/X3zWgxL/tronchain.png"
+name="Stellar Stock"
+desc="The Stellar stock is a distributed blockchain based ledger and database that facilitates cross-asset transfers of value, including payments. The native digital asset of Stellar is called Lumens (XLM). However, Stellar can also support other tokenized assets on its blockchain"
+image="https://i.ibb.co/nM7ZXyW/stellar-stock.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#TronChain was issued using the open and inclusive Stellar blockchain network.
+#StellarStock was issued using the open and inclusive Stellar blockchain network.
